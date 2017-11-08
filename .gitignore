@@ -16,3 +16,9 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+/.idea
+
+/wp-content/envato-backups
+/wp-content/w3tc-config
+/wp-content/debug.log
+/wp-content/themes/*/.sass-cache
